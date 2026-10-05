@@ -9,7 +9,7 @@ CNN-Based Temporal Fusion of UAV and Sentinel-2 Imagery for Crop Monitoring
 <h3> 🛠️ Technical Features
 <h5> <p align="justify"> Designed for: Reading multiband Sentinel–UAV pairs (same grid) and training on image patches.
 
-Models: Implementations of FSRCNN, VDSR, and ESRGAN adapted for remote sensing applications.
+Models: Implementations of TVDSR, DeepSent, UAV-Net and S^3ESRGAN adapted for remote sensing applications.
 
 Model Management: Automatic saving of models with resolution and acquisition dates in the filename.
 
